@@ -42,7 +42,8 @@
 
 
 ```markdown
-[https://raw.githubusercontent.com/montana1/sprint-3/refs/heads/sprint_3/Current.svg](URL)
+wef
+<img src="https://github.com/montana1/sprint-3/blob/sprint_3/diagrams/current_monolit.svg" alt="Текущая диаграмма решения">
 ```
 
 Замените `Текст ссылки` текстом, который хотите использовать для ссылки. Вместо `URL` вставьте адрес, на который должна вести ссылка. Например:
