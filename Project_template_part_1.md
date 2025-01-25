@@ -63,4 +63,4 @@
 
 # Задание 3. Разработка ER-диаграммы
 
-[ER диаграмма](diagrams/document.pdf)
+[ER диаграмма](diagrams/erd.pdf)
